@@ -1,6 +1,6 @@
 #define DEBUG true
 String mySSID = "F1_2.4";       // WiFi SSID
-String myPWD = "pricna2235"; // WiFi Password
+String myPWD = ""; // WiFi Password
 String myAPI = "ZG57XJ27ZQT2E2B9";   // API Key
 String myHOST = "184.106.153.149";
 String myPORT = "80";
