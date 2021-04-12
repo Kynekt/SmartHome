@@ -1,7 +1,12 @@
-echo "# SmartHome" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Kynekt/SmartHome.git
-git push -u origin main
+# SmartHome
+Školní maturitní projekt
+
+# Součástky
+- Arduino MEGA2560
+- DHT22 teploměr a vlhkoměr
+- TCP/IP WIFI ESP8266 ESP-01
+- LED diody
+- vodiče
+- nepájívé pole
+- rezistory
+- potenciometr
