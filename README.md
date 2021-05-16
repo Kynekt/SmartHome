@@ -2,11 +2,16 @@
 Školní maturitní projekt
 
 # Součástky
-- Arduino MEGA2560
+- Klon Arduino MEGA2560
 - DHT22 teploměr a vlhkoměr
 - TCP/IP WIFI ESP8266 ESP-01
 - LED diody
-- vodiče
-- nepájívé pole
-- rezistory
-- potenciometr
+- Vodiče
+- Nepájívé pole
+- Rezistory
+- Potenciometr
+- Ventilátory
+- UTP kabel
+- I2C LCD display
+- Lišty a kryty lišt
+- Tištěné periferie
