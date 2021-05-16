@@ -123,6 +123,7 @@ lcd.print(potpracovna);
       digitalWrite(robyvak1,HIGH);
       digitalWrite(robyvak2, HIGH);
       digitalWrite(fanobyvak,LOW);
+    /*        
     Serial.println(" ___________________________________");
     Serial.println("|Obývací pokoj:                     |");
     Serial.print("|Teplota: "); 
@@ -132,11 +133,13 @@ lcd.print(potpracovna);
     Serial.print(vlhobyvak);
     Serial.println("  %|");
     Serial.println("|___________________________________|");     
+    */        
       }else{
       digitalWrite(robyvak1, LOW);
       digitalWrite(robyvak2, LOW);
       digitalWrite(bobyvak,HIGH);
       digitalWrite(fanobyvak,HIGH);
+   /*         
     Serial.println(" ___________________________________");
     Serial.println("|Obývací pokoj:                     |");
     Serial.print("|Teplota: "); 
@@ -146,6 +149,7 @@ lcd.print(potpracovna);
     Serial.print(vlhobyvak);
     Serial.println("  %|");
     Serial.println("|___________________________________|");
+   */         
       }
       }
      
